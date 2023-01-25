@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/gal hadad](https://www.linkedin.com/in/gal-hadad-8a58181ba/)" target="[blank](https://www.linkedin.com/in/gal-hadad-8a58181ba/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gal hadad" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/gal-hadad-8a58181ba/)" target="[blank](https://www.linkedin.com/in/gal-hadad-8a58181ba/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gal hadad" height="30" width="40" /></a>
 <a href="https://kaggle.com/midfoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="midfoul" height="30" width="40" /></a>
 </p>
 
